@@ -55,3 +55,7 @@ body {
     background: rgb(181, 151, 65);
     background: linear-gradient(0deg, rgba(181, 151, 65, 1) 11%, rgba(20, 20, 20, 1) 75%);
 }
+
+.card-diufo {
+    background: url(../img/bg-login-movil.jpg) no-repeat center;
+}
