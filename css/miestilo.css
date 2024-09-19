@@ -59,3 +59,8 @@ body {
 .card-diufo {
     background: url(../img/bg-login-movil.jpg) no-repeat center;
 }
+
+.card-marvel {
+    background: rgb(13, 13, 13);
+    background: linear-gradient(0deg, rgba(13, 13, 13, 1) 28%, rgba(255, 0, 0, 1) 80%);
+}
