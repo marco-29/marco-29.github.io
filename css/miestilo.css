@@ -64,3 +64,8 @@ body {
     background: rgb(13, 13, 13);
     background: linear-gradient(0deg, rgba(13, 13, 13, 1) 28%, rgba(255, 0, 0, 1) 80%);
 }
+
+.card-zrunner {
+    background: rgb(34, 193, 195);
+    background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(3, 86, 87, 1) 100%);
+}
